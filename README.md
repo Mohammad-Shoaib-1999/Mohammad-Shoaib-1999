@@ -9,7 +9,7 @@ Hey there! 👋 I'm Mohammad, a passionate developer focused on building scalabl
 ## 📍 My Tech Roadmap
 
 I'm actively exploring new technologies and skillsets to expand my career opportunities. Check out my roadmap for learning:
-[![Roadmap.sh](https://img.shields.io/badge/My-Roadmap-blue?style=flat-square&logo=roadmap.sh)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/67fcd38daf6849cc456a09bb?variant=light)](https://roadmap.sh)
 
 ## 🎯 Competitive Programming & Problem Solving
 
