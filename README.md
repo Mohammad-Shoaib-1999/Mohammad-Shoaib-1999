@@ -16,6 +16,18 @@ I'm actively exploring new technologies and skillsets to expand my career opport
 I'm honing my coding skills on HackerRank. View my profile here:
 [![HackerRank](https://img.shields.io/badge/My-HackerRank-green?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/your-hackerrank-username)
 
+Certifications & Learning
+
+I'm continuously improving my skills through online learning platforms. You can view my FreeCodeCamp profile and certifications here:
+[![FreeCodeCamp](https://img.shields.io/badge/My-FreeCodeCamp-orange?style=flat-square&logo=freecodecamp)](https://www.freecodecamp.org/Mohamad_Shoaib)
+
+### Completed Certifications:
+- **[responsive-web-design](https://www.freecodecamp.org/certification/Mohamad_Shoaib/responsive-web-design)**
+- **[front-end-development-libraries](https://www.freecodecamp.org/certification/Mohamad_Shoaib/front-end-development-libraries)**
+- **[relational-database-v8](https://www.freecodecamp.org/certification/Mohamad_Shoaib/relational-database-v8)**
+- **[back-end-development-and-apis](https://www.freecodecamp.org/certification/Mohamad_Shoaib/back-end-development-and-apis)**
+- **[javascript-algorithms-and-data-structures](https://www.freecodecamp.org/certification/Mohamad_Shoaib/javascript-algorithms-and-data-structures)**
+
 ## ⚡ Technologies & Skills
 
 - **Frontend:** React, Redux Toolkit, Next.js, Ant Design
