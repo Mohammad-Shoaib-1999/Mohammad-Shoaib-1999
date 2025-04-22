@@ -2,10 +2,6 @@
 
 Hey there! 👋 I'm Mohammad, a passionate developer focused on building scalable and efficient web applications. My expertise lies in **React, Redux Toolkit, Next.js, MERN stack, and API optimizations**. I thrive on solving complex technical challenges and continuously learning new technologies.
 
-## 🏆 GitHub Stats
-
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ## 📍 My Tech Roadmap
 
 I'm actively exploring new technologies and skillsets to expand my career opportunities. Check out my roadmap for learning:
